@@ -1,0 +1,48 @@
+HTTP Code: 200
+Response: "{\"errors\":[],\"success\":true,\"id\":\"a03fv00000LSw0BAAT\"}"
+HTTP Code: 200
+Response: "{\"errors\":[\"Lead already exists. Reborn & Assignment logic executed.\"],\"success\":true,\"id\":\"a03fv00000LZbJzAAL\"}"
+HTTP Code: 200
+Response: "{\"errors\":[],\"success\":true,\"id\":\"a03fv00000LlaVNAAZ\"}"
+HTTP Code: 200
+Response: "{\"errors\":[],\"success\":true,\"id\":\"a03fv00000LsQRHAA3\"}"
+HTTP Code: 200
+Response: "{\"errors\":[\"Lead already exists. Reborn & Assignment logic executed.\"],\"success\":true,\"id\":\"a03fv00000LtuNJAAZ\"}"
+HTTP Code: 200
+Response: "{\"errors\":[],\"success\":true,\"id\":\"a03fv00000Lwls5AAB\"}"
+HTTP Code: 200
+Response: "{\"errors\":[],\"success\":true,\"id\":\"a03fv00000M5SdJAAV\"}"
+HTTP Code: 200
+Response: "{\"errors\":[],\"success\":true,\"id\":\"a03fv00000M94ChAAJ\"}"
+HTTP Code: 200
+Response: "{\"errors\":[],\"success\":true,\"id\":\"a03fv00000MIBmlAAH\"}"
+HTTP Code: 200
+Response: "{\"errors\":[],\"success\":true,\"id\":\"a03fv00000MOD2iAAH\"}"
+HTTP Code: 200
+Response: "{\"errors\":[\"Lead already exists. Reborn & Assignment logic executed.\"],\"success\":true,\"id\":\"a03fv00000MOD2iAAH\"}"
+HTTP Code: 200
+Response: "{\"errors\":[],\"success\":true,\"id\":\"a03fv00000MRKNlAAP\"}"
+HTTP Code: 200
+Response: "{\"errors\":[\"Lead already exists. Reborn & Assignment logic executed.\"],\"success\":true,\"id\":\"a03fv00000MaBtBAAV\"}"
+HTTP Code: 200
+Response: "{\"errors\":[],\"success\":true,\"id\":\"a03fv00000MsIWMAA3\"}"
+HTTP Code: 200
+Response: "{\"errors\":[],\"success\":true,\"id\":\"a03fv00000MxxdiAAB\"}"
+HTTP Code: 200
+Response: "{\"errors\":[\"Lead already exists. Reborn & Assignment logic executed.\"],\"success\":true,\"id\":\"a03fv00000LZbJzAAL\"}"
+HTTP Code: 200
+Response: "{\"errors\":[],\"success\":true,\"id\":\"a03fv00000N5yOAAAZ\"}"
+HTTP Code: 200
+Response: "{\"errors\":[\"Lead already exists. Reborn & Assignment logic executed.\"],\"success\":true,\"id\":\"a03fv00000NEcxsAAD\"}"
+HTTP Code: 200
+Response: "{\"errors\":[\"OPP_CREATION_FAILED: Lead opportunity Name: data value too large: From where I can download the previous year question papers of ma economics NMIMS (max length=80) | Lead opportunity Name: data value too large: From where I can download the previous year question papers of ma economics Symbiosis (max length=80) | \"],\"success\":true,\"id\":\"a03fv00000NHMbZAAX\"}"
+HTTP Code: 200
+Response: "{\"errors\":[],\"success\":true,\"id\":\"a03fv00000NNSeIAAX\"}"
+HTTP Code: 200
+Response: "{\"errors\":[],\"success\":true,\"id\":\"a03fv00000NhZGdAAN\"}"
+HTTP Code: 200
+Response: "{\"errors\":[\"Lead already exists. Reborn & Assignment logic executed.\"],\"success\":true,\"id\":\"a03fv00000NhZGdAAN\"}"
+HTTP Code: 200
+Response: "{\"errors\":[],\"success\":true,\"id\":\"a03fv00000NhukrAAB\"}"
+HTTP Code: 200
+Response: "{\"errors\":[\"OPP_CREATION_FAILED: We can't save this record because the “Lead Opportunity  CityStateMatcher flow” process failed. Give your Salesforce admin these details. This error occurred when the flow tried to update records: FIELD_INTEGRITY_EXCEPTION: The Address__StateCode__s field contains OD, which isn't an available state. Your administrator can add it for you.. You can look up ExceptionCode values in the SOAP API Developer Guide. Error ID: 792916955-446961 (1970758899) | We can't save this record because the “Lead Opportunity  CityStateMatcher flow” process failed. Give your Salesforce admin these details. This error occurred when the flow tried to update records: FIELD_INTEGRITY_EXCEPTION: The Address__StateCode__s field contains OD, which isn't an available state. Your administrator can add it for you.. You can look up ExceptionCode values in the SOAP API Developer Guide. Error ID: 792916955-446961 (1970758899) | We can't save this record because the “Lead Opportunity  CityStateMatcher flow” process failed. Give your Salesforce admin these details. This error occurred when the flow tried to update records: FIELD_INTEGRITY_EXCEPTION: The Address__StateCode__s field contains OD, which isn't an available state. Your administrator can add it for you.. You can look up ExceptionCode values in the SOAP API Developer Guide. Error ID: 792916955-446961 (1970758899) | \"],\"success\":true,\"id\":\"a03fv00000Ny9MZAAZ\"}"
