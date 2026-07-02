@@ -55,7 +55,7 @@
 .lpu-hero{
   margin-top:75px;
   /* background:linear-gradient(135deg, #3b5998 0%, #2d4373 100%); */
-   background:url("images/banner_bg.webp") no-repeat center/cover;
+   background:url("banner_bg.webp") no-repeat center/cover;
   padding:50px 0;
   position:relative;
   overflow:hidden;
